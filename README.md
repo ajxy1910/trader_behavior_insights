@@ -164,5 +164,6 @@ Prepared by: \*\*Ajaykumar Nishad\*\*
 
 For: \*\*Junior Data Scientist – Trader Behavior Insights\*\*
 
-## GitHub Repository: [https://github.com/ajxy1910/trader\\\_behavior\\\_insights.git](https://github.com/ajxy1910/trader\\_behavior\\_insights.git)
+## GitHub Repository: [https://github.com/ajxy1910/trader\\\_behavior\\\_insights.git](https://github.com/ajxy1910/trader_behavior_insights.git)
+
 
