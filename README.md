@@ -12,6 +12,15 @@ sentiment regimes.
 ---
 
 ## 📊 Datasets Used
+The datasets are large and cannot be uploaded directly to GitHub because of size limits.
+Please download them from the following links and place them in the `data/` folder:
+
+- Historical Trading Data:
+  https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+- Fear & Greed Index:
+  https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 
 ### **1. Hyperliquid Historical Trades**
 
@@ -165,5 +174,6 @@ Prepared by: \*\*Ajaykumar Nishad\*\*
 For: \*\*Junior Data Scientist – Trader Behavior Insights\*\*
 
 ## GitHub Repository: [https://github.com/ajxy1910/trader\\\_behavior\\\_insights.git](https://github.com/ajxy1910/trader_behavior_insights.git)
+
 
 
